@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/centonni/springboot/configuration/tool/Bundle.properties
+
